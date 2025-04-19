@@ -49,7 +49,7 @@ Feel free to explore my repositories to see more of my work and contributions!
 
 ## 🔗 Let's Connect
 
-- 💼 LinkedIn: 
+- 💼 LinkedIn: ...
 - 📫 Email: oumarciss298\@gmail.com
 
 Thanks for visiting my profile! Don't forget to explore my repositories and feel free to collaborate or provide feedback. Together, we can build amazing things! 🚀
