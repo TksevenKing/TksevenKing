@@ -1,4 +1,4 @@
-# Hello !! I am @TkesenKing 
+# Hello !!! I am @TkesenKing 
 # 💻Welcome to My GitHub Profile!
 
 Hello there! I'm a **Software Engineering Student** with a passion for crafting efficient and innovative solutions in the field of technology. My journey in programming is driven by a love for learning and solving complex problems with logical thinking. Here’s a bit about me:
