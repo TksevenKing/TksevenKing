@@ -1,62 +1,83 @@
-# Hello !!! I am @TkesenKing 
-# 💻Welcome to My GitHub Profile!
+<h1 align="center">Hi, I'm Oumar Cissé 👋</h1>
 
-Hello there! I'm a **Software Engineering Student** with a passion for crafting efficient and innovative solutions in the field of technology. My journey in programming is driven by a love for learning and solving complex problems with logical thinking. Here’s a bit about me:
+<p align="center">
+  <b>Computer Engineer · M2 Programming, Safety & Security (P2S) @ Sorbonne Paris Nord · Founder of DIGICRAFT</b>
+</p>
 
-## 🌟 About me
+<p align="center">
+  Building reliable software from full-stack applications to formally verified systems. 🇲🇱 → 🇲🇦 → 🇫🇷
+</p>
 
-- 🎓 **Field of Study:** Software Engineering (Génie Logiciel)
-- 💡 **Specialization:** Backend Development and Algorithm Design
-- 🌍 **Currently:** Enrolled in Meta’s Backend Development Program to deepen my expertise.
-- 🧠 **Strengths:** Strong logical reasoning and problem-solving abilities.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Safety%20%26%20Security-2b6cb0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Also-Full--Stack%20Development-38a169?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20(Feb%202027)-dd6b20?style=flat-square" />
+</p>
 
-## 🛠️ My Skills
+---
 
-### **Frontend Development**
+### 🚀 About me
 
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-- ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🎓 **State Engineer in Computer Engineering** FST Errachidia, Moulay Ismaïl University, Morocco (2026)
+- 🔐 Currently pursuing an **M2 in Programming, Safety & Security (P2S)** at **Université Sorbonne Paris Nord**
+- 🧩 I care about software that doesn't just *work*, but is **provably correct and secure** — formal methods, verification, and rigorous engineering
+- 🏢 Founder of **[DIGICRAFT](https://digicraftso.com)**, a software venture based in Mali
+- 🌍 From **Mali**, trained in **Morocco**, now building in **France**
+- 💼 **Open to a 6-month end-of-studies internship starting February 2027** (full-stack / software engineering)
 
-### **Backend Development**
+---
 
-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-- ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### 🛠️ Tech & Tools
 
-### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### **Additional Skills**
+**Interests:** formal methods · model checking · secure software design · full-stack development
 
-- 🛠️ Network Configuration and Troubleshooting
-- 📐 Algorithm Design and Optimization
+---
 
-## 🚀 Projects
+### 🎧 Featured Projects — For a Switzerland Company
 
-Here are some notable projects I've worked on:
+Two production projects I designed and delivered for **Rubesa Universe**:
 
-- **Messaging Application in Python**: A Python-based messaging application that demonstrates my skills in backend development and user interaction.
-- **CATNOSKA Website**: A platform for Malian students in Morocco, developed in collaboration with the Embassy of Mali, to assist students with essential resources and services.
+**🔊 [Neusonics](https://www.neusonics.com)**
+> My role: led design & development. A modern audio-focused application built end-to-end, from architecture to delivery.
 
-Feel free to explore my repositories to see more of my work and contributions!
+**🎵 [Equisounds](https://equisounds.com/fr)** 
+> My role: led design & development. Delivered a complete, functional product for the client. 
 
-## 🔗 Let's Connect
+> 💡 Both projects took a brief from a real client through to a working, delivered product.
 
-- 💼 LinkedIn: ...
-- 📫 Email: oumarciss298\@gmail.com
+---
 
-Thanks for visiting my profile! Don't forget to explore my repositories and feel free to collaborate or provide feedback. Together, we can build amazing things! 🚀
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TksevenKing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TksevenKing&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TksevenKing&theme=tokyonight&hide_border=true" />
+</p>
 
-<!---
-TksevenKing/TksevenKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oumar-ciss%C3%A91"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:oumarciss300@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>« Rigueur, sécurité, et code qui tient ses promesses. »</i></p>
