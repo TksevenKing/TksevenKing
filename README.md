@@ -23,7 +23,7 @@
 - 🧩 I care about software that doesn't just *work*, but is **provably correct and secure** — formal methods, verification, and rigorous engineering
 - 🏢 Founder of **[DIGICRAFT](https://digicraftso.com)**, a software venture based in Mali
 - 🌍 From **Mali**, trained in **Morocco**, now building in **France**
-- 💼 **Open to a 6-month end-of-studies internship starting February 2027** (full-stack / software engineering)
+- 💼 **Open to a 6-month end-of-studies internship starting March 2027** (full-stack / software engineering)
 
 ---
 
