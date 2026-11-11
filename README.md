@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oumar Cissé 👋</h1>
+<h1 align="center">Hi, I'm Oumar CISSE 👋</h1>
 
 <p align="center">
   <b>Computer Engineer · M2 Programming, Safety & Security (P2S) @ Sorbonne Paris Nord · Founder of DIGICRAFT</b>
