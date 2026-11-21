@@ -20,7 +20,7 @@
 
 - 🎓 **State Engineer in Computer Engineering** FST Errachidia, Moulay Ismaïl University, Morocco (2026)
 - 🔐 Currently pursuing an **M2 in Programming, Safety & Security (P2S)** at **Université Sorbonne Paris Nord**
-- 🧩 I care about software that doesn't just *work*, but is **provably correct and secure** — formal methods, verification, and rigorous engineering
+- 🧩 I care about software that doesn't just *work*, but is **provably correct and secure** - formal methods, verification, and rigorous engineering
 - 🏢 Founder of **[DIGICRAFT](https://digicraftso.com)**, a software venture based in Mali
 - 🌍 From **Mali**, trained in **Morocco**, now building in **France**
 - 💼 **Open to a 6-month end-of-studies internship starting March 2027** (full-stack / software engineering)
